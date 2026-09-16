@@ -3,6 +3,7 @@
 .env.*
 auth.json
 *.pem
+node_modules/
 
 # Python
 __pycache__/
